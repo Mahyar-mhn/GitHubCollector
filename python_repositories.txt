@@ -1,0 +1,23 @@
+Top 7 repositories:
+**************************************************
+#1 donnemartin/system-design-primer - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+URL: https://github.com/donnemartin/system-design-primer
+--------------------------------------------------
+#2 vinta/awesome-<em>python</em> - An opinionated list of awesome <em>Python</em> frameworks, libraries, software and resources.
+URL: https://github.com/vinta/awesome-python
+--------------------------------------------------
+#3 tensorflow/tensorflow - An Open Source Machine Learning Framework for Everyone
+URL: https://github.com/tensorflow/tensorflow
+--------------------------------------------------
+#4 TheAlgorithms/<em>Python</em> - All Algorithms implemented in <em>Python</em>
+URL: https://github.com/TheAlgorithms/Python
+--------------------------------------------------
+#5 CyC2018/CS-Notes - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+URL: https://github.com/CyC2018/CS-Notes
+--------------------------------------------------
+#6 ohmyzsh/ohmyzsh - 🙃 A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins …
+URL: https://github.com/ohmyzsh/ohmyzsh
+--------------------------------------------------
+#7 practical-tutorials/project-based-learning - Curated list of project-based tutorials
+URL: https://github.com/practical-tutorials/project-based-learning
+--------------------------------------------------
